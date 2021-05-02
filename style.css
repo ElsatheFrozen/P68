@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: rgb(37, 228, 49);
+    background: linear-gradient(90deg, rgba(37, 228, 49, 1) 0%, rgba(80, 252, 242, 1) 62%);
+}
+
+.campus {
+    width: 250px;
+    height: 250px;
+    margin-right: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: mediumseagreen;
+}
+
+html {
+    scroll-behavior: smooth;
+}
